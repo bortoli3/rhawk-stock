@@ -1,8 +1,8 @@
 {
   "notas": [
-    "Tests"
+    "Correcciones varias"
   ],
-  "zip_url": "https://github.com/bortoli3/rhawk-stock/releases/download/web-v2.35/update.zip",
-  "sha256": "c31e9e023fc38afc22511a8c72bdb88dc04d250f38fb6e05d2e654a310d9b576",
-  "version": "v2.35"
+  "zip_url": "https://github.com/bortoli3/rhawk-stock/releases/download/web-v2.43/update.zip",
+  "sha256": "0a1f1cf2da257e43dce92bf5c3d8ccf54860eb411ababa692adeacdec06ba418",
+  "version": "v2.43"
 }

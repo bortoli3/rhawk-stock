@@ -1,8 +1,8 @@
 {
-  "sha256": "77cdd507e9428c90103e66bb3da1815b24fb79a47b4cfa3c108b9eae35432e8b",
-  "version": "v2.68",
-  "zip_url": "https://github.com/bortoli3/rhawk-stock/releases/download/web-v2.68/update.zip",
+  "zip_url": "https://github.com/bortoli3/rhawk-stock/releases/download/web-v2.69/update.zip",
   "notas": [
-    "Mejoras varias"
-  ]
+    "Scroll infinito"
+  ],
+  "sha256": "36060974d08df35f7b4f756f82a568d43c883d709cad8b48897087fdd3571931",
+  "version": "v2.69"
 }
